@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://dhz.7776555.xyz/"
 languageCode = "zh-CN"
 title = "导航站"
 theme = "hugo-webstack"
@@ -32,7 +32,7 @@ copyright = "zorlei"
 #桌面端右上角code按钮
 [params.github]
   enable = true #true显示 false隐藏
-  url = "https://github.com/oulh/nav"
+  url = "https://dhz.7776555.xyz/"
   
 [permalinks]  
   404 = "/404.html"
